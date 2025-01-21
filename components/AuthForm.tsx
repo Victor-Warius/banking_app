@@ -80,7 +80,7 @@ const AuthForm = ({ type }: { type: string }) => {
       } finally {
         setIsLoading(false);
       }
-      console.log(data);
+      // console.log(data);
     }
 
   return (
